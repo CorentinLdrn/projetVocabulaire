@@ -1,0 +1,7 @@
+{
+  "name": "projectVocab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

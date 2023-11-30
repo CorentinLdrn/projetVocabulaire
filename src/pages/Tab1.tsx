@@ -30,7 +30,6 @@ const Tab1: React.FC = () => {
             <img className="h-8" src="/flags/uk.png" alt="usa" />
             <img className="h-8" src="/flags/brasil.png" alt="brasil" />
             <img className="h-8" src="/flags/russia.png" alt="russia" />
-            <h1>papapipapapo</h1>
           </div>
         </div>
       </IonContent>
